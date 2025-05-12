@@ -1,5 +1,5 @@
 # Dataset Reference link : 
-📂 [Download full dataset from source]([https://example.com/dataset-link](https://archive.ics.uci.edu/dataset/352/online+retail))
+📂 [Download full dataset from source](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 
 # 🛒 Online Retail Analytics
